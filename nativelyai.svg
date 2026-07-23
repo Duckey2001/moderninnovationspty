@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 80">
+  <!-- Lightbulb icon -->
+  <g transform="translate(10, 10)">
+    <!-- Bulb outline -->
+    <path d="M25 5 C15 5 8 12 8 22 C8 28 11 32 15 35 L15 45 C15 47 17 49 19 49 L31 49 C33 49 35 47 35 45 L35 35 C39 32 42 28 42 22 C42 12 35 5 25 5 Z" 
+          fill="none" stroke="#3b82f6" stroke-width="2"/>
+    <!-- Filament/circuit pattern -->
+    <path d="M20 20 L25 15 L30 20" fill="none" stroke="#3b82f6" stroke-width="1.5"/>
+    <path d="M25 15 L25 25" fill="none" stroke="#3b82f6" stroke-width="1.5"/>
+    <path d="M22 25 L28 25" fill="none" stroke="#3b82f6" stroke-width="1.5"/>
+    <!-- Plus sign squares at top -->
+    <rect x="23" y="2" width="4" height="4" fill="#3b82f6"/>
+    <rect x="23" y="8" width="4" height="4" fill="#3b82f6"/>
+    <rect x="17" y="5" width="4" height="4" fill="#3b82f6"/>
+    <rect x="29" y="5" width="4" height="4" fill="#3b82f6"/>
+  </g>
+  
+  <!-- Company name -->
+  <text x="60" y="50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#3b82f6" letter-spacing="2">MODERN INNOVATIONS</text>
+</svg>
