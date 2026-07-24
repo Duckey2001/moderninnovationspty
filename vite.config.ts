@@ -17,6 +17,7 @@ const svgImportPlugin = () => ({
 
 // https://vite.dev/config/
 export default defineConfig(({ command }) => ({
+  base: command === 'build' ? '/moderninnovationspty/' : '/',
   plugins: [
     react(), 
     tailwindcss(),
